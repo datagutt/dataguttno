@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "https://twitter.com/datagutt",
+      "destination": "/"
+    },
+    {
       "source": "twitter.com/datagutt",
       "destination": "/"
     },
