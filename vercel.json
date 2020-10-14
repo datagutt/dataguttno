@@ -1,16 +1,12 @@
 {
   "redirects": [
     {
-      "source": "https://twitter.com/datagutt",
-      "destination": "/"
+      "source": "/",
+      "destination": "https://twitter.com/datagutt"
     },
     {
-      "source": "twitter.com/datagutt",
-      "destination": "/"
-    },
-    {
-      "source": "https://discord.gg/QYvWt68",
-      "destination": "discord"
+      "source": "/discord",
+      "destination": "https://discord.gg/QYvWt68"
     }
   ]
 }
